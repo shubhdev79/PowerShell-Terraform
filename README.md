@@ -27,3 +27,7 @@ Demo Repo Created to Use Powershell to Run Terraform Configurations
 
 > cd $terraform_directory
 terraform plan -out=tfplan
+
+# Architecture
+
+**![alt text](https://github.com/shubhdev79/PowerShell-Terraform/blob/master/Ansible-Automation.jpg)**
