@@ -21,7 +21,7 @@ Demo Repo Created to Use Powershell to Run Terraform Configurations
 
 > Write-Host "Initiating Terraform Init" -ForegroundColor Green;
     cd $terraform_directory;
-    terraform init; 
+    terraform init;
 
 **Terraform plan+++++**
 
@@ -31,3 +31,5 @@ terraform plan -out=tfplan
 # Architecture
 
 **![alt text](https://github.com/shubhdev79/PowerShell-Terraform/blob/master/Ansible-Automation.jpg)**
+
+# TestCommit from New Branch
